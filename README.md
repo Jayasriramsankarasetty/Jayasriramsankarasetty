@@ -78,14 +78,17 @@
 ---
 
 ### 📈 GitHub Stats & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayasriramsankarasetty&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Jayasriramsankarasetty&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayasriramsankarasetty&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Jayasriramsankarasetty&theme=tokyonight" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasriramsankarasetty&layout=compact&theme=tokyonight" height="120" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jayasriramsankarasetty&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-
----
 
 ### 🚀 Projects
 
@@ -110,20 +113,12 @@
 ---
 
 ### 📬 Let's Connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jaysrirams" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jayasriramnani9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Jayasriramsankarasetty" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaysrirams)
+[![Email](https://img.shields.io/badge/Email-jayasriramnani9%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayasriramnani9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jayasriramsankarasetty)
 
 ---
+
 
 <p align="center">
   🚀 *"I don’t just learn tech, I use it to build meaningful impact."*  
