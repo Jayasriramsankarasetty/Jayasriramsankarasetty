@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 #### 🤖 Deep Learning
@@ -57,6 +56,14 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+#### ☁️ Cloud & MLOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-020f27?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</p>
 
 #### 🧰 Tools & Platforms
 <p align="left">
@@ -70,12 +77,21 @@
 
 ---
 
+### 📈 GitHub Stats & Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayasriramsankarasetty&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Jayasriramsankarasetty&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+</p>
+
+
+---
+
 ### 🚀 Projects
 
-- 🎓 [Legal Document Analyzer](https://github.com/Jayasriramsankarasetty/LegalDocumentAnalyzer) – ``, `Pinecone`, `Streamlit`
+- 🎓 [Legal Document Analyzer](https://github.com/Jayasriramsankarasetty/LegalDocumentAnalyzer) – `Pandas`,`Scikit-Learn`, `spaCy`, `Streamlit`
 - 🕹 [Gesture Controlled Subway Surfer](https://github.com/Jayasriramsankarasetty/...) – `MediaPipe`, `OpenCV`, `Real-time CV`
 - 📈 [Nestlé Stock Price Prediction](https://github.com/Jayasriramsankarasetty/NestleStockPricePrediction) – `Regression`, `Streamlit`, `Pandas`
-- 📊 [50 Startups Analysis](https://github.com/Jayasriramsankarasetty/...) – `EDA`, `ML`, `Seaborn`, `Matplotlib`
 
 ---
 
@@ -89,7 +105,7 @@
 ### 📄 Resume & Certifications
 
 - 📌 [Resume (PDF)](https://github.com/Jayasriramsankarasetty/resume.pdf)
-- 📜 Certifications: Infosys Springboard, IBM, Coursera – [Cert Repo](https://github.com/Jayasriramsankarasetty/Certifications)
+- 📜 Certifications: Infosys Springboard, Udemy, Coursera – [Cert Repo](https://github.com/Jayasriramsankarasetty/Certifications)
 
 ---
 
