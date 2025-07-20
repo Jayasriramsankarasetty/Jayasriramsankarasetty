@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayasriram Sankarasetty</h1>
-<h3 align="center">🚀 Aspiring ML/AI Engineer | 🎯 Targeting 15+ LPA Roles | ⚖️ LegalTech & AI Ethics Enthusiast</h3>
+<h3 align="center">🚀 Aspiring ML/AI Engineer</h3>
 
 ---
 
@@ -7,8 +7,8 @@
 
 - 🎓 B.Tech CSE | Specialization in Data Science & ML @ LPU (2023–2027)  
 - 👨‍💻 Passionate about building real-world ML & GenAI applications  
-- 🧪 Currently working on projects using OpenCV, LangChain, HuggingFace, and TensorFlow  
-- 🎯 Career Goal: Crack top-tier ML/AI roles in domains like LegalTech, FinTech, Healthcare  
+- 🧪 Currently working on projects using Pytorch, TensorFlow, HuggingFace, and LangChain
+- 🎯 Career Goal: Work at top-tier ML/AI roles in domains like LegalTech, FinTech, Healthcare  
 - 💬 Ask me about **Machine Learning, Python, GenAI, and Legal AI**  
 - ✨ Motto: *"Code to solve, not just to build."*
 
@@ -32,6 +32,14 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
+#### 🤖 Deep Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CNN%20|%20RNN%20|%20ANN-black?style=for-the-badge"/>
+</p>
+
 #### 🤖 GenAI / NLP / CV
 <p align="left">
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -41,12 +49,22 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+
 #### 🧰 Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
@@ -54,9 +72,9 @@
 
 ### 🚀 Projects
 
-- 🎓 [Legal Document QA Chatbot](https://github.com/Jayasriramsankarasetty/...) – `LangChain`, `Pinecone`, `Streamlit`
+- 🎓 [Legal Document Analyzer](https://github.com/Jayasriramsankarasetty/LegalDocumentAnalyzer) – ``, `Pinecone`, `Streamlit`
 - 🕹 [Gesture Controlled Subway Surfer](https://github.com/Jayasriramsankarasetty/...) – `MediaPipe`, `OpenCV`, `Real-time CV`
-- 📈 [Nestlé Stock Price Prediction](https://github.com/Jayasriramsankarasetty/...) – `Regression`, `Streamlit`, `Pandas`
+- 📈 [Nestlé Stock Price Prediction](https://github.com/Jayasriramsankarasetty/NestleStockPricePrediction) – `Regression`, `Streamlit`, `Pandas`
 - 📊 [50 Startups Analysis](https://github.com/Jayasriramsankarasetty/...) – `EDA`, `ML`, `Seaborn`, `Matplotlib`
 
 ---
@@ -64,8 +82,7 @@
 ### 📘 DSA Practice
 
 📁 Organized by: `Arrays`, `Strings`, `HashMaps`, `Linked Lists`, `DP`, and more  
-🧩 30+ Problems Solved | 📌 Goal: **500+ LeetCode Problems**  
-📌 [View My DSA Repository](https://github.com/Jayasriramsankarasetty/DSA-Practice)
+📌 [View My DSA Repository](https://github.com/Jayasriramsankarasetty/DSA-Java-Journey)
 
 ---
 
