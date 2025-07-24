@@ -78,13 +78,16 @@
 ---
 
 ### 📈 GitHub Stats & Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayasriramsankarasetty&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Jayasriramsankarasetty&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jayasriramsankarasetty&theme=tokyonight" height="150" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasriramsankarasetty&layout=compact&theme=tokyonight" height="120" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jayasriramsankarasetty&style=flat-square&color=blue" alt="Profile views" />
 </p>
