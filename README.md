@@ -6,10 +6,9 @@
 ### 🧠 About Me
 
 - 🎓 B.Tech CSE | Specialization in Data Science & ML @ LPU (2023–2027)  
-- 👨‍💻 Passionate about building real-world ML & GenAI applications  
+- 👨‍💻 Passionate about building real-world ML & GenAI applications and AI Systems
 - 🧪 Currently working on projects using Pytorch, TensorFlow, HuggingFace, and LangChain
-- 🎯 Career Goal: Work at top-tier ML/AI roles in domains like LegalTech, FinTech, Healthcare  
-- 💬 Ask me about **Machine Learning, Python, GenAI, and Legal AI**  
+- 💬 Ask me about **Machine Learning, Python, GenAI, AI Agents and AI for Social Impact**
 - ✨ Motto: *"Code to solve, not just to build."*
 
 ---
@@ -77,20 +76,23 @@
 
 ---
 
+---
+
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayasriramsankarasetty&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jayasriramsankarasetty&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayasriramsankarasetty&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Jayasriramsankarasetty&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasriramsankarasetty&layout=compact&theme=tokyonight" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasriramsankarasetty&layout=compact&theme=tokyonight&hide_border=true" height="130" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jayasriramsankarasetty&style=flat-square&color=blue" alt="Profile views" />
 </p>
+
 
 
 ### 🚀 Projects
