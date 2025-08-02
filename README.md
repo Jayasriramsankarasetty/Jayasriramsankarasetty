@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayasriram Sankarasetty</h1>
+<h1 align="center">Hi 👋, I'm JayaSriRam Sankarasetty</h1>
 <h3 align="center">🚀 Aspiring ML/AI Engineer</h3>
 
 ---
