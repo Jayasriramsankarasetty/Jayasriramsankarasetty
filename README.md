@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JayaSriRam Sankarasetty</h1>
-<h3 align="center">🚀 Aspiring ML/AI Engineer</h3>
+<h3 align="center">🚀 ML/AI Engineer</h3>
 
 ---
 
@@ -105,7 +105,7 @@
 
 ### 📘 DSA Practice
 
-📁 Organized by: `Arrays`, `Strings`, `HashMaps`, `Linked Lists`, `DP`, and more  
+📁 Organized by: `Arrays`, `Strings`, `Stacks`, `Queues`,`Recursion`, `Linked Lists`, `DP`, and more  
 📌 [View My DSA Repository](https://github.com/Jayasriramsankarasetty/DSA-Java-Journey)
 
 ---
