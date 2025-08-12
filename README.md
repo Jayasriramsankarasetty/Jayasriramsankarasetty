@@ -113,7 +113,7 @@
 ### 📄 Resume & Certifications
 
 - 📌 [Resume (PDF)](https://github.com/Jayasriramsankarasetty/resume.pdf)
-- 📜 Certifications: Infosys Springboard, Udemy, Coursera – [Cert Repo](https://github.com/Jayasriramsankarasetty/Certifications)
+- 📜 Certifications: (https://github.com/Jayasriramsankarasetty/Certifications)
 
 ---
 
