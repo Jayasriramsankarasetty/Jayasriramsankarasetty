@@ -105,7 +105,7 @@
 
 ### 📘 DSA Practice
 
-📁 Organized by: `Arrays`, `Strings`, `Stacks`, `Queues`,`Recursion`, `Linked Lists`, `DP`, and more  
+📁 Organized by: `Arrays`, `Strings`, `Stacks`, `Queues`,`Recursion`, `Linked Lists`, and more  
 📌 [View My DSA Repository](https://github.com/Jayasriramsankarasetty/DSA-Java-Journey)
 
 ---
