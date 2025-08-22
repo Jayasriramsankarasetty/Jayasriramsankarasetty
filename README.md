@@ -99,7 +99,7 @@
 
 - 🎓 [Legal Document Analyzer](https://github.com/Jayasriramsankarasetty/LegalDocumentAnalyzer) – `Pandas`,`Scikit-Learn`, `spaCy`, `Streamlit`
 - 🕹 [Gesture Controlled Subway Surfer](https://github.com/Jayasriramsankarasetty/...) – `MediaPipe`, `OpenCV`, `Real-time CV`
-- 📈 [Nestlé Stock Price Prediction](https://github.com/Jayasriramsankarasetty/NestleStockPricePrediction) – `Regression`, `Pandas`
+- 📈 [Nestlé Stock Price Prediction](https://github.com/Jayasriramsankarasetty/NestleStockPricePrediction) – `Regression`, `Pandas`,`Matplotlib`
 
 ---
 
