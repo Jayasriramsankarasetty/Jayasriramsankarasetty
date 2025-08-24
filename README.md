@@ -6,7 +6,7 @@
 ### 🧠 About Me
 
 - 🎓 B.Tech CSE | Specialization in Data Science & ML @ LPU (2023–2027)  
-- 👨‍💻 Passionate about building real-world ML & GenAI applications and AI Systems
+- 👨‍💻 Passionate about building real-world ML & AI applications and AI Systems
 - 🧪 Currently working on projects using Pytorch, TensorFlow, HuggingFace, and LangChain
 - 💬 Ask me about **Machine Learning, Python, GenAI, AI Agents and AI for Social Impact**
 - ✨ Motto: *"Code to solve, not just to build."*
